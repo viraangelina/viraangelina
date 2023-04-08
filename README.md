@@ -1,9 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 - I'm Vira Angelina  
 - Currently studying Business Statistics 🔭  
+- Undergraduate student at Institute Technology Sepuluh Nopember⚡  
 ![](https://github.com/viraangelina/viraangelina/blob/main/girl.gif)  
 
-#### How to reach me  
+### How to reach me :
 - Email : viraangelina05@gmail.com
 
 
