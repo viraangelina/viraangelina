@@ -1,4 +1,12 @@
 ### Hi there 👋
+- I'm Vira Angelina  
+- Currently studying Business Statistics 🔭  
+![](https://github.com/viraangelina/viraangelina/blob/main/girl.gif)  
+
+#### How to reach me  
+- Email : viraangelina05@gmail.com
+
+
 
 <!--
 **viraangelina/viraangelina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
